@@ -18,3 +18,7 @@ This project examines whether:
 - context-specific behaviors (e.g., phone use during studying, morning phone checking) are stronger predictors,
 - attention mediates the relationship between smartphone use and productivity,
 - distinct behavioral profiles of smartphone users can be identified.
+
+<p align="center">
+  <img src="Table1_demographics.png" alt="Table 1: Demographics" width="100%" />
+</p>
