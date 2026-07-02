@@ -19,6 +19,3 @@ This project examines whether:
 - attention mediates the relationship between smartphone use and productivity,
 - distinct behavioral profiles of smartphone users can be identified.
 
-<p align="center">
-  <img src="Table1_demographics.png" alt="Table 1: Demographics" width="100%" />
-</p>
