@@ -15,7 +15,7 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-pandas%20%7C%20numpy%20%7C%20scipy%20%7C%20scikit--learn%20%7C%20statsmodels-green)
 ![GitHub Release](https://img.shields.io/github/v/release/16kai-ad/smartphone-attention-productivity-study?include_prereleases&sort=semver)
 ![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21040756-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/16kai-ad/smartphone-attention-productivity-study)
+![GitHub last commit](https://img.shields.io/github/last-commit/16kai-ad/smartphone-attention-productivity-study?style=flat)
 ![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Yes-blueviolet)
 ![License](https://img.shields.io/github/license/16kai-ad/smartphone-attention-productivity-study?color=green)
 
