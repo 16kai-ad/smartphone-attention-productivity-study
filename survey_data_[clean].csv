@@ -1,0 +1,95 @@
+﻿Отметка времени,Age (number only),Gender ,Level of education ,Current status ,  Average daily screen time  ,  Social media usage per day  ,  Phone usage during studying/working hours  ,  Most used apps (multiple choice)  ,  Do you check your phone within 5 minutes of waking up?  ,   I can focus on tasks for long periods without distraction  ,I often lose focus due to my smartphone ,I feel productive during my study/work sessions ,I tend to procrastinate using my phone ,I find it difficult to stay away from my phone during tasks ,  Average sleep duration  ,  Daily study/work hours  ,  Self-reported stress level  ,Do you believe smartphone usage affects your productivity?  ,Age
+23.05.2026 13:31:16,21,Male,Bachelor’s student,Both student and working,2–4 hours,1–3 hours,Always,"Instagram, YouTube, Telegram",Yes,3,1,5,4,3,6–7 hours,1–3 hours,5,"Yes, negatively",21
+23.05.2026 13:45:35,21,Female,Bachelor’s student,Student,4–6 hours,Less than 1 hour,Rarely,"YouTube, Telegram",Yes,4,1,4,3,1,5–6 hours,More than 5 hours,2,"Yes, positively",21
+23.05.2026 17:52:07,20,Female,Bachelor’s student,Both student and working,6–8 hours,5–7 hours,Sometimes,"Instagram, TikTok, Telegram",Yes,3,4,3,3,3,7–8 hours,3–5 hours,1,Not sure,20
+23.05.2026 17:53:14,20,Female,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Often,"Instagram, TikTok, YouTube, Telegram, WhatsApp",Yes,4,2,4,2,3,6–7 hours,More than 5 hours,4,"Yes, positively",20
+23.05.2026 22:44:54,20,Female,Bachelor’s student,Both student and working,4–6 hours,1–3 hours,Sometimes,"Instagram, YouTube, WhatsApp",No,5,1,5,1,0,7–8 hours,3–5 hours,1,Not sure,20
+24.05.2026 0:02:35,22,Male,Bachelor’s student,Student,More than 8 hours,5–7 hours,Always,"Instagram, TikTok, Telegram, WhatsApp",Yes,0,5,5,5,5,7–8 hours,3–5 hours,5,"Yes, positively",22
+24.05.2026 0:05:31,25,Male,Master’s student,Student,4–6 hours,1–3 hours,Sometimes,"Instagram, TikTok",Yes,3,5,3,1,5,7–8 hours,3–5 hours,2,"Yes, negatively",25
+24.05.2026 3:45:02,26,Female,Master’s student,Student,4–6 hours,5–7 hours,Often,Instagram,Yes,0,1,2,5,4,7–8 hours,1–3 hours,3,"Yes, negatively",26
+24.05.2026 5:19:23,19,Female,Bachelor’s student,Student,More than 8 hours,More than 7 hours,Rarely,"Instagram, TikTok, YouTube",Yes,1,4,2,1,4,7–8 hours,1–3 hours,4,"Yes, negatively",19
+24.05.2026 7:32:40,27,Female,Master’s student,Student,6–8 hours,3–5 hours,Often,"Instagram, YouTube",Yes,1,3,4,1,4,7–8 hours,More than 5 hours,2,"Yes, negatively",27
+24.05.2026 12:20:48,21,Female,Bachelor’s student,Student,6–8 hours,Less than 1 hour,Never,"Instagram, TikTok, YouTube, Telegram, WhatsApp",Yes,1,2,1,1,1,5–6 hours,1–3 hours,1,No effect,21
+24.05.2026 13:32:47,20,Male,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Sometimes,"Instagram, Telegram",Yes,5,1,5,2,3,6–7 hours,3–5 hours,1,"Yes, positively",20
+24.05.2026 14:21:07,21,Male,Bachelor’s student,Both student and working,2–4 hours,1–3 hours,Often,"TikTok, YouTube, Other",Yes,3,2,4,4,1,6–7 hours,3–5 hours,2,"Yes, positively",21
+24.05.2026 14:34:44,18,Male,Bachelor’s student,Both student and working,2–4 hours,5–7 hours,Often,"Instagram, TikTok, YouTube, Telegram, WhatsApp",Yes,1,4,4,4,4,5–6 hours,More than 5 hours,1,"Yes, positively",18
+24.05.2026 14:35:42,19,Male,Bachelor’s student,Working,6–8 hours,More than 7 hours,Sometimes,"TikTok, YouTube, Telegram, WhatsApp",Yes,4,4,4,4,4,7–8 hours,3–5 hours,4,"Yes, negatively",19
+24.05.2026 14:36:43,26,Male,Bachelor’s student,Both student and working,More than 8 hours,1–3 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,5,0,5,0,0,More than 8 hours,More than 5 hours,3,Not sure,26
+24.05.2026 14:36:47,20,Female,Bachelor’s student,Student,2–4 hours,1–3 hours,Always,"Instagram, YouTube, Telegram",No,3,3,3,1,2,6–7 hours,More than 5 hours,3,"Yes, positively",20
+24.05.2026 14:43:15,22,Female,Bachelor’s student,Student,4–6 hours,3–5 hours,Often,"TikTok, YouTube, Telegram, WhatsApp",No,3,4,4,4,4,7–8 hours,3–5 hours,4,"Yes, negatively",22
+24.05.2026 14:45:11,26,Female,Master’s student,Both student and working,2–4 hours,3–5 hours,Rarely,"TikTok, Telegram, WhatsApp",Yes,4,5,5,5,5,5–6 hours,1–3 hours,1,"Yes, positively",26
+24.05.2026 14:47:25,20,Male,Bachelor’s student,Student,More than 8 hours,3–5 hours,Often,"Instagram, YouTube, Telegram, WhatsApp",Yes,3,5,5,3,4,7–8 hours,1–3 hours,5,"Yes, positively",20
+24.05.2026 14:56:57,20,Male,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"Instagram, Telegram",Yes,4,2,2,5,0,More than 8 hours,3–5 hours,0,"Yes, negatively",20
+24.05.2026 14:58:22,20,Female,Bachelor’s student,Student,6–8 hours,3–5 hours,Sometimes,"Instagram, TikTok",Yes,3,3,3,3,3,More than 8 hours,3–5 hours,3,"Yes, positively",20
+24.05.2026 14:58:23,20,Male,Bachelor’s student,Both student and working,More than 8 hours,5–7 hours,Always,"TikTok, YouTube",Yes,3,3,2,4,4,7–8 hours,1–3 hours,4,"Yes, positively",20
+24.05.2026 14:59:53,20,Female,Bachelor’s student,Student,6–8 hours,5–7 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,3,5,3,5,4,7–8 hours,3–5 hours,5,"Yes, positively",20
+24.05.2026 15:00:21,20,Female,Bachelor’s student,Student,6–8 hours,3–5 hours,Sometimes,"Instagram, YouTube",Yes,3,5,5,5,3,7–8 hours,More than 5 hours,2,"Yes, negatively",20
+24.05.2026 15:31:36,24,Male,Master’s student,Both student and working,4–6 hours,5–7 hours,Rarely,"TikTok, Telegram, Other",No,5,1,2,2,1,6–7 hours,More than 5 hours,2,Not sure,24
+24.05.2026 15:51:22,26,Female,Employed (non-student),Working,More than 8 hours,3–5 hours,Sometimes,"TikTok, Telegram",Yes,4,2,5,1,2,6–7 hours,3–5 hours,2,No effect,26
+24.05.2026 15:52:52,21,Male,Bachelor’s student,Student,6–8 hours,3–5 hours,Sometimes,"Instagram, TikTok, WhatsApp",Yes,3,2,3,3,3,5–6 hours,1–3 hours,4,Not sure,21
+24.05.2026 20:59:00,21,Male,Bachelor’s student,Student,6–8 hours,3–5 hours,Always,"Instagram, TikTok, YouTube, Telegram, WhatsApp",Yes,5,4,4,4,3,5–6 hours,1–3 hours,4,No effect,21
+24.05.2026 21:16:55,29,Female,Master’s student,Student,More than 8 hours,5–7 hours,Often,"Instagram, TikTok, YouTube, WhatsApp",Yes,1,4,2,2,4,7–8 hours,1–3 hours,4,"Yes, negatively",29
+24.05.2026 22:14:38,23,Female,Bachelor’s student,Student,2–4 hours,1–3 hours,Sometimes,"YouTube, Telegram, WhatsApp",Yes,3,3,3,2,2,5–6 hours,3–5 hours,2,No effect,23
+25.05.2026 5:16:49,21,Male,Bachelor’s student,Student,6–8 hours,3–5 hours,Often,"Instagram, YouTube, WhatsApp",Yes,3,4,4,3,4,6–7 hours,More than 5 hours,4,"Yes, negatively",21
+25.05.2026 20:26:10,22,Male,Bachelor’s student,Both student and working,More than 8 hours,3–5 hours,Always,"Instagram, TikTok, YouTube, Telegram, WhatsApp, Other",Yes,2,2,2,2,2,5–6 hours,1–3 hours,3,Not sure,22
+25.05.2026 20:27:59,21,Female,Bachelor’s student,Student,4–6 hours,1–3 hours,Rarely,"YouTube, Telegram, Other",No,1,2,4,1,1,6–7 hours,3–5 hours,1,No effect,21
+25.05.2026 20:34:21,23,Female,Employed (non-student),Working,6–8 hours,3–5 hours,Sometimes,"Instagram, Telegram, WhatsApp",No,4,1,3,1,1,6–7 hours,3–5 hours,3,Not sure,23
+25.05.2026 22:22:39,22,Female,Bachelor’s student,Student,6–8 hours,3–5 hours,Often,"Instagram, TikTok, Telegram, Other",Yes,3,2,4,3,1,6–7 hours,3–5 hours,1,No effect,22
+25.05.2026 22:40:11,30,Female,Employed (non-student),Working,More than 8 hours,1–3 hours,Rarely,"Instagram, YouTube, WhatsApp",No,5,1,5,1,1,6–7 hours,More than 5 hours,3,"Yes, negatively",30
+25.05.2026 22:43:43,19,Male,Bachelor’s student,Both student and working,6–8 hours,5–7 hours,Often,"Instagram, YouTube, Telegram",Yes,4,3,3,3,3,6–7 hours,3–5 hours,2,"Yes, positively",19
+27.05.2026 14:18:34,21,Male,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Often,"TikTok, Telegram, WhatsApp, Other",Yes,2,3,4,2,3,6–7 hours,More than 5 hours,3,Not sure,21
+27.05.2026 14:19:31,20,Male,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"Instagram, TikTok, YouTube, Telegram",Yes,5,3,4,3,3,7–8 hours,3–5 hours,1,Not sure,20
+27.05.2026 14:22:06,25,Male,Employed (non-student),Working,4–6 hours,1–3 hours,Often,"Instagram, Telegram, WhatsApp, Other",Yes,4,2,4,1,3,6–7 hours,3–5 hours,2,Not sure,25
+27.05.2026 14:23:07,20,Female,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Often,"Instagram, TikTok, Telegram, Other",Yes,4,2,4,2,1,6–7 hours,3–5 hours,1,"Yes, positively",20
+27.05.2026 14:25:29,25,Male,Employed (non-student),Working,4–6 hours,1–3 hours,Sometimes,"Instagram, Telegram, WhatsApp, Other",Yes,5,2,4,1,3,6–7 hours,3–5 hours,1,"Yes, negatively",25
+27.05.2026 14:26:26,19,Female,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"TikTok, YouTube, Telegram, WhatsApp",Yes,4,4,4,3,2,6–7 hours,3–5 hours,3,Not sure,19
+27.05.2026 14:27:53,23,Male,Bachelor’s student,Both student and working,4–6 hours,1–3 hours,Rarely,"Instagram, Telegram, WhatsApp, Other",Yes,5,2,4,1,3,6–7 hours,3–5 hours,2,No effect,23
+27.05.2026 14:30:00,24,Female,Master’s student,Both student and working,4–6 hours,3–5 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,4,2,3,3,1,5–6 hours,3–5 hours,2,Not sure,24
+27.05.2026 14:31:45,24,Male,Employed (non-student),Working,4–6 hours,5–7 hours,Often,"Instagram, Telegram, WhatsApp, Other",Yes,5,4,3,2,1,6–7 hours,More than 5 hours,2,"Yes, positively",24
+27.05.2026 14:32:48,27,Male,Employed (non-student),Working,4–6 hours,1–3 hours,Often,"TikTok, Telegram, WhatsApp",Yes,5,2,4,1,1,6–7 hours,More than 5 hours,2,No effect,27
+27.05.2026 14:33:32,23,Male,Bachelor’s student,Both student and working,4–6 hours,3–5 hours,Sometimes,"Instagram, TikTok, Telegram, Other",Yes,4,3,3,3,1,6–7 hours,More than 5 hours,2,Not sure,23
+27.05.2026 14:34:14,23,Male,Master’s student,Both student and working,4–6 hours,3–5 hours,Sometimes,"TikTok, Telegram, WhatsApp",No,4,2,2,2,1,6–7 hours,3–5 hours,2,No effect,23
+27.05.2026 14:39:56,22,Female,Bachelor’s student,Working,4–6 hours,3–5 hours,Often,"Instagram, TikTok, Telegram",Yes,5,2,4,2,1,7–8 hours,3–5 hours,1,No effect,22
+27.05.2026 14:40:42,22,Male,Bachelor’s student,Both student and working,More than 8 hours,5–7 hours,Often,"Instagram, TikTok, Telegram, Other",Yes,4,3,2,1,1,6–7 hours,3–5 hours,1,"Yes, positively",22
+27.05.2026 14:52:21,18,Male,Bachelor’s student,Student,4–6 hours,1–3 hours,Rarely,"Instagram, YouTube, Telegram",Yes,4,2,4,2,1,6–7 hours,3–5 hours,2,No effect,18
+27.05.2026 15:26:03,18,Female,Bachelor’s student,Student,2–4 hours,3–5 hours,Sometimes,"Instagram, YouTube, Telegram",Yes,4,3,3,3,1,6–7 hours,3–5 hours,2,No effect,18
+27.05.2026 15:26:49,18,Male,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"Instagram, TikTok, YouTube, Telegram, WhatsApp, Other",Yes,5,3,3,1,3,6–7 hours,3–5 hours,2,No effect,18
+27.05.2026 15:27:51,18,Male,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"Instagram, YouTube, Telegram",Yes,4,2,3,1,1,6–7 hours,3–5 hours,2,No effect,18
+27.05.2026 15:28:43,20,Female,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"Instagram, TikTok, Telegram",Yes,4,2,2,2,1,6–7 hours,3–5 hours,1,"Yes, positively",20
+27.05.2026 15:29:32,19,Female,Bachelor’s student,Student,4–6 hours,1–3 hours,Sometimes,"TikTok, Telegram, Other",No,3,1,3,1,1,6–7 hours,3–5 hours,1,No effect,19
+27.05.2026 15:30:17,19,Female,Bachelor’s student,Both student and working,4–6 hours,3–5 hours,Rarely,"Instagram, YouTube, Telegram",Yes,4,3,4,2,2,6–7 hours,3–5 hours,2,Not sure,19
+27.05.2026 15:31:19,22,Female,Bachelor’s student,Both student and working,4–6 hours,1–3 hours,Sometimes,"Instagram, YouTube, Telegram, Other",Yes,5,3,4,1,1,6–7 hours,3–5 hours,2,"Yes, positively",22
+27.05.2026 15:32:44,24,Female,Master’s student,Both student and working,6–8 hours,3–5 hours,Sometimes,"Instagram, YouTube, Telegram",Yes,4,2,3,1,1,6–7 hours,3–5 hours,2,"Yes, negatively",24
+27.05.2026 15:33:42,24,Female,Employed (non-student),Working,4–6 hours,1–3 hours,Rarely,"Instagram, Telegram, Other",Yes,4,1,4,1,1,6–7 hours,More than 5 hours,2,"Yes, negatively",24
+27.05.2026 15:34:44,24,Male,Employed (non-student),Working,6–8 hours,1–3 hours,Often,"Instagram, TikTok, Telegram",Yes,4,1,3,1,1,6–7 hours,3–5 hours,3,Not sure,24
+27.05.2026 22:06:44,21,Female,Bachelor’s student,Student,More than 8 hours,More than 7 hours,Often,"Instagram, TikTok, WhatsApp",Yes,1,3,3,4,4,5–6 hours,Less than 1 hour,4,"Yes, negatively",21
+28.05.2026 15:03:36,21,Male,Bachelor’s student,Student,4–6 hours,1–3 hours,Rarely,"Instagram, YouTube, Telegram, Other",Yes,4,2,4,1,1,6–7 hours,3–5 hours,1,"Yes, positively",21
+28.05.2026 15:04:20,21,Female,Bachelor’s student,Both student and working,4–6 hours,1–3 hours,Sometimes,"Instagram, TikTok, Telegram",Yes,4,2,4,1,1,6–7 hours,More than 5 hours,1,No effect,21
+28.05.2026 15:05:04,21,Female,Bachelor’s student,Student,4–6 hours,3–5 hours,Often,"Instagram, TikTok, Telegram, WhatsApp",Yes,4,1,2,1,2,5–6 hours,1–3 hours,2,"Yes, negatively",21
+28.05.2026 15:06:23,22,Male,Bachelor’s student,Both student and working,4–6 hours,3–5 hours,Sometimes,"Instagram, YouTube, Telegram, Other",Yes,4,2,1,2,1,6–7 hours,3–5 hours,1,No effect,22
+28.05.2026 15:07:13,22,Female,Employed (non-student),Working,4–6 hours,3–5 hours,Rarely,"Instagram, Telegram, WhatsApp, Other",Yes,4,2,3,1,2,7–8 hours,3–5 hours,3,"Yes, negatively",22
+28.05.2026 15:08:16,22,Male,Employed (non-student),Working,6–8 hours,3–5 hours,Sometimes,"TikTok, Telegram, Other",Yes,4,3,3,2,4,6–7 hours,More than 5 hours,1,"Yes, negatively",22
+28.05.2026 15:09:09,22,Female,Bachelor’s student,Student,2–4 hours,Less than 1 hour,Rarely,"Telegram, WhatsApp, Other",Yes,4,2,3,1,1,6–7 hours,3–5 hours,3,Not sure,22
+28.05.2026 15:10:03,23,Male,Master’s student,Student,4–6 hours,1–3 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,3,2,2,1,1,6–7 hours,3–5 hours,2,"Yes, negatively",23
+28.05.2026 15:11:10,23,Female,Employed (non-student),Working,2–4 hours,Less than 1 hour,Sometimes,"YouTube, Telegram, Other",No,5,2,4,2,1,7–8 hours,More than 5 hours,2,No effect,23
+28.05.2026 15:12:01,24,Female,Master’s student,Both student and working,6–8 hours,3–5 hours,Rarely,"Instagram, YouTube, Telegram, Other",Yes,4,1,3,3,2,6–7 hours,1–3 hours,2,"Yes, positively",24
+28.05.2026 15:12:51,24,Female,Employed (non-student),Working,More than 8 hours,5–7 hours,Often,"Instagram, TikTok, YouTube, Telegram, WhatsApp, Other",Yes,5,1,4,1,1,6–7 hours,1–3 hours,2,Not sure,24
+28.05.2026 15:14:29,25,Male,Employed (non-student),Working,4–6 hours,3–5 hours,Often,"TikTok, Telegram, Other",Yes,3,1,3,1,1,6–7 hours,3–5 hours,2,No effect,25
+28.05.2026 15:15:09,21,Male,Bachelor’s student,Student,4–6 hours,3–5 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,4,2,3,1,2,7–8 hours,1–3 hours,2,"Yes, positively",21
+28.05.2026 15:16:44,21,Female,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Often,"Instagram, Telegram, WhatsApp",Yes,4,2,3,2,2,6–7 hours,3–5 hours,3,"Yes, negatively",21
+28.05.2026 15:18:24,18,Female,Bachelor’s student,Student,6–8 hours,3–5 hours,Sometimes,"Instagram, YouTube, Telegram",Yes,3,1,2,1,1,7–8 hours,3–5 hours,2,"Yes, positively",18
+28.05.2026 15:19:44,23,Female,Master’s student,Both student and working,4–6 hours,3–5 hours,Sometimes,"TikTok, YouTube, WhatsApp",Yes,4,3,3,1,1,6–7 hours,More than 5 hours,2,No effect,23
+28.05.2026 15:21:15,23,Female,Employed (non-student),Working,2–4 hours,Less than 1 hour,Sometimes,"Instagram, Telegram, WhatsApp",Yes,4,3,2,2,3,6–7 hours,1–3 hours,2,"Yes, negatively",23
+28.05.2026 15:22:02,23,Female,Master’s student,Student,2–4 hours,1–3 hours,Rarely,"YouTube, Telegram, Other",Yes,4,1,4,1,1,6–7 hours,More than 5 hours,3,No effect,23
+28.05.2026 15:22:43,23,Male,Employed (non-student),Working,More than 8 hours,1–3 hours,Sometimes,"TikTok, YouTube, Telegram",Yes,3,1,3,1,2,6–7 hours,3–5 hours,2,No effect,23
+28.05.2026 15:23:28,24,Female,Master’s student,Student,4–6 hours,3–5 hours,Sometimes,"YouTube, Telegram, Other",No,4,2,3,2,2,6–7 hours,3–5 hours,1,Not sure,24
+28.05.2026 15:24:20,24,Female,Master’s student,Working,4–6 hours,3–5 hours,Often,"Instagram, Telegram",Yes,3,2,2,2,3,6–7 hours,1–3 hours,1,"Yes, negatively",24
+28.05.2026 15:24:59,24,Female,Master’s student,Student,6–8 hours,1–3 hours,Sometimes,"Instagram, Telegram",No,4,2,3,1,2,6–7 hours,1–3 hours,1,"Yes, positively",24
+28.05.2026 15:25:57,24,Female,Master’s student,Student,4–6 hours,3–5 hours,Rarely,"YouTube, Telegram, Other",Yes,3,1,2,1,1,5–6 hours,3–5 hours,2,"Yes, positively",24
+28.05.2026 15:26:49,25,Female,Employed (non-student),Working,4–6 hours,3–5 hours,Often,"TikTok, Telegram",No,4,2,3,1,1,6–7 hours,More than 5 hours,1,"Yes, positively",25
+28.05.2026 15:27:34,25,Male,Employed (non-student),Working,2–4 hours,Less than 1 hour,Rarely,"TikTok, YouTube, Telegram",No,4,1,4,1,1,6–7 hours,3–5 hours,1,No effect,25
+28.05.2026 15:28:32,22,Male,Bachelor’s student,Student,6–8 hours,1–3 hours,Rarely,"Instagram, TikTok, Telegram",Yes,4,2,4,2,1,6–7 hours,3–5 hours,2,No effect,22
+28.05.2026 15:29:13,22,Male,Bachelor’s student,Both student and working,6–8 hours,3–5 hours,Often,"TikTok, Telegram",Yes,4,3,4,1,2,6–7 hours,1–3 hours,2,"Yes, positively",22
+28.05.2026 15:31:51,21,Female,Bachelor’s student,Student,4–6 hours,1–3 hours,Rarely,"YouTube, Telegram",Yes,4,1,3,1,2,6–7 hours,3–5 hours,1,Not sure,21
+28.05.2026 15:39:17,22,Male,Master’s student,Student,2–4 hours,1–3 hours,Sometimes,"Instagram, TikTok, WhatsApp",Yes,4,5,3,3,5,More than 8 hours,1–3 hours,2,"Yes, negatively",22
+28.05.2026 22:05:53,22,Female,Master’s student,Student,4–6 hours,3–5 hours,Often,"Instagram, TikTok, WhatsApp",Yes,4,4,2,4,4,7–8 hours,1–3 hours,4,"Yes, negatively",22
