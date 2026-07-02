@@ -5,6 +5,16 @@
 ![GitHub Release](https://img.shields.io/github/v/release/16kai-ad/smartphone-attention-productivity-study?include_prereleases&sort=semver)
 ![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21040756-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/16kai-ad/smartphone-attention-productivity-study)
+![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Yes-blueviolet)
 
 ## Smartphone Usage Patterns and Their Association with Attention and Productivity
-#### _This repository contains the full research pipeline for my preprint study investigating the relationship between smartphone usage patterns, attention, productivity, and procrastination among young adults aged 18–30. The project combines statistical analysis, behavioral research, and machine learning techniques to explore whether smartphone usage patterns are associated with cognitive and productivity-related outcomes._
+This repository contains the full research pipeline for my preprint study investigating the relationship between smartphone usage patterns, attention, productivity, and procrastination among young adults aged 18–30.
+The project combines **statistical analysis**, **behavioral research**, and **machine learning techniques** to explore whether smartphone usage patterns are associated with cognitive and productivity-related outcomes.
+
+Smartphones are deeply integrated into modern daily life, especially among students and young professionals. While prior research often suggests a negative relationship between smartphone use and academic or cognitive performance, findings remain inconsistent.
+
+This project examines whether:
+- overall smartphone screen time predicts attention and productivity,
+- context-specific behaviors (e.g., phone use during studying, morning phone checking) are stronger predictors,
+- attention mediates the relationship between smartphone use and productivity,
+- distinct behavioral profiles of smartphone users can be identified.
