@@ -17,7 +17,7 @@
 ![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21040756-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/16kai-ad/smartphone-attention-productivity-study?style=flat)
 ![Papers with Code](https://img.shields.io/badge/Papers%20with%20Code-Yes-blueviolet)
-![License](https://img.shields.io/github/license/16kai-ad/smartphone-attention-productivity-study?color=green)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Smartphone Usage Patterns and Their Association with Attention and Productivity
 This repository contains the full research pipeline for my preprint study investigating the relationship between smartphone usage patterns, attention, productivity, and procrastination among young adults aged 18–30.
