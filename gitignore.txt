@@ -1,0 +1,173 @@
+# ============================================
+# Python
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+*.pytest_cache
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# Data files
+# ============================================
+
+# Raw data
+*.csv
+*.xlsx
+*.xls
+*.tsv
+*.json
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# EXCEPTION: allow small sample files
+!sample_data.csv
+!sample_data.xlsx
+
+# ============================================
+# Outputs # ============================================
+
+# Tables 
+# outputs/tables/
+# *.csv 
+
+# Plots
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Reports
+*.txt
+*.log
+
+# ============================================
+# IDE and editors
+# ============================================
+
+# VS Code
+.vscode/
+*.code-workspace
+.vscode/*
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+.sublime/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# ============================================
+# OS-specific files
+# ============================================
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.dmrc
+
+# ============================================
+# Project-specific
+# ============================================
+
+# Google Colab
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Model files 
+*.pkl
+*.pickle
+*.joblib
+*.sav
+*.model
+
+# Logs
+logs/
+*.log
+
+# Config files with secrets
+*.env
+*.key
+*.pem
+*.crt
+*.cer
+
